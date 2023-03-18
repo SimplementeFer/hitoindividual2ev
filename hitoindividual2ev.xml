@@ -1,0 +1,2638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="prueba.xsl"?>
+<pedidos>
+	<ano>
+		<ano1 ano="2021">
+			<trimestre>
+				<trimestre1 num="1">
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>001</numeroPedido>
+							<fechaCompra>2021-01-05</fechaCompra>
+							<fechaEntrega>2021-01-15</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta versace</nombre>
+									<referencia>CAM001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero</nombre>
+									<referencia>PAN001</referencia>
+									<precio>50.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Sudadera con capucha básica</nombre>
+									<referencia>SUD001</referencia>
+									<precio>100.00€</precio>
+									<unidades>3ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>002</numeroPedido>
+							<fechaCompra>2021-01-06</fechaCompra>
+							<fechaEntrega>2021-01-10</fechaEntrega>
+							<totalFactura>280.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta oversized</nombre>
+									<referencia>CAM002</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón levis ancho</nombre>
+									<referencia>PAN002</referencia>
+									<precio>200.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>003</numeroPedido>
+							<fechaCompra>2021-02-10</fechaCompra>
+							<fechaEntrega>2021-02-22</fechaEntrega>
+							<totalFactura>500.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riño balenciaga</nombre>
+									<referencia>RIÑ001</referencia>
+									<precio>500.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>004</numeroPedido>
+							<fechaCompra>2021-02-12</fechaCompra>
+							<fechaEntrega>2021-02-20</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cinturón gucci</nombre>
+									<referencia>CIN001</referencia>
+									<precio>470.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Fernando</nombre>
+							<apellidos>Dorado</apellidos>
+							<telefono>675364722</telefono>
+							<direccion>
+								<calle>C/ Plaza Paco, 8</calle>
+								<ciudad>Griñon</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>fernando.dorado@campusfp.es</correo>
+							<fechaInclusion>2021-02-15</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>005</numeroPedido>
+							<fechaCompra>2021-02-15</fechaCompra>
+							<fechaEntrega>2021-02-28</fechaEntrega>
+							<totalFactura>200.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Chaqueta retro forrada</nombre>
+									<referencia>CHA001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero extra-ancho</nombre>
+									<referencia>PAN003</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>006</numeroPedido>
+							<fechaCompra>2021-02-15</fechaCompra>
+							<fechaEntrega>2021-02-28</fechaEntrega>
+							<totalFactura>520.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cartera la greca versace</nombre>
+									<referencia>CAR001</referencia>
+									<precio>520.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>007</numeroPedido>
+							<fechaCompra>2021-02-26</fechaCompra>
+							<fechaEntrega>2021-03-8</fechaEntrega>
+							<totalFactura>40.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riñonera marlboro</nombre>
+									<referencia>RIÑ002</referencia>
+									<precio>40.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>008</numeroPedido>
+							<fechaCompra>2021-03-01</fechaCompra>
+							<fechaEntrega>2021-03-20</fechaEntrega>
+							<totalFactura>3228.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Bomber Givenchy</nombre>
+									<referencia>BOM001</referencia>
+									<precio>2790.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Cartera gucci tiger</nombre>
+									<referencia>CAR002</referencia>
+									<precio>438.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>009</numeroPedido>
+							<fechaCompra>2021-03-12</fechaCompra>
+							<fechaEntrega>2021-03-22</fechaEntrega>
+							<totalFactura>995.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Balenciaga Triple S</nombre>
+									<referencia>BAL001</referencia>
+									<precio>995.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente id="1">
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle id="1">
+							<numeroPedido>010</numeroPedido>
+							<fechaCompra>2021-03-22</fechaCompra>
+							<fechaEntrega>2021-03-30</fechaEntrega>
+							<totalFactura>60409.95€</totalFactura>
+							<productos>
+								<producto id="1">
+									<nombre>Zapas guardia civil</nombre>
+									<referencia>ZAP001</referencia>
+									<precio>23.95€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto id="2">
+									<nombre>Air Mag "Back to the Future"</nombre>
+									<referencia>BTF001</referencia>
+									<precio>60386.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+				</trimestre1>
+				<trimestre2 num="2">
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>011</numeroPedido>
+							<fechaCompra>2021-04-05</fechaCompra>
+							<fechaEntrega>2021-04-15</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta versace</nombre>
+									<referencia>CAM001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero</nombre>
+									<referencia>PAN001</referencia>
+									<precio>50.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Sudadera con capucha básica</nombre>
+									<referencia>SUD001</referencia>
+									<precio>100.00€</precio>
+									<unidades>3ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>012</numeroPedido>
+							<fechaCompra>2021-04-06</fechaCompra>
+							<fechaEntrega>2021-04-10</fechaEntrega>
+							<totalFactura>280.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta oversized</nombre>
+									<referencia>CAM002</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón levis ancho</nombre>
+									<referencia>PAN002</referencia>
+									<precio>200.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>013</numeroPedido>
+							<fechaCompra>2021-05-10</fechaCompra>
+							<fechaEntrega>2021-05-22</fechaEntrega>
+							<totalFactura>500.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riño balenciaga</nombre>
+									<referencia>RIÑ001</referencia>
+									<precio>500.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>014</numeroPedido>
+							<fechaCompra>2021-05-12</fechaCompra>
+							<fechaEntrega>2021-05-20</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cinturón gucci</nombre>
+									<referencia>CIN001</referencia>
+									<precio>470.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Fernando</nombre>
+							<apellidos>Dorado</apellidos>
+							<telefono>675364722</telefono>
+							<direccion>
+								<calle>C/ Plaza Paco, 8</calle>
+								<ciudad>Griñon</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>fernando.dorado@campusfp.es</correo>
+							<fechaInclusion>2021-02-15</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>015</numeroPedido>
+							<fechaCompra>2021-05-15</fechaCompra>
+							<fechaEntrega>2021-05-28</fechaEntrega>
+							<totalFactura>200.00€</totalFactura>>
+							<productos>
+								<producto>
+									<nombre>Chaqueta retro forrada</nombre>
+									<referencia>CHA001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero extra-ancho</nombre>
+									<referencia>PAN003</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>016</numeroPedido>
+							<fechaCompra>2021-05-15</fechaCompra>
+							<fechaEntrega>2021-05-28</fechaEntrega>
+							<totalFactura>520.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cartera la greca versace</nombre>
+									<referencia>CAR001</referencia>
+									<precio>520.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>017</numeroPedido>
+							<fechaCompra>2021-05-26</fechaCompra>
+							<fechaEntrega>2021-06-8</fechaEntrega>
+							<totalFactura>40.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riñonera marlboro</nombre>
+									<referencia>RIÑ002</referencia>
+									<precio>40.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>018</numeroPedido>
+							<fechaCompra>2021-06-01</fechaCompra>
+							<fechaEntrega>2021-06-20</fechaEntrega>
+							<totalFactura>3228.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Bomber Givenchy</nombre>
+									<referencia>BOM001</referencia>
+									<precio>2790.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Cartera gucci tiger</nombre>
+									<referencia>CAR002</referencia>
+									<precio>438.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>019</numeroPedido>
+							<fechaCompra>2021-06-12</fechaCompra>
+							<fechaEntrega>2021-06-22</fechaEntrega>
+							<totalFactura>995.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Balenciaga Triple S</nombre>
+									<referencia>BAL001</referencia>
+									<precio>995.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>020</numeroPedido>
+							<fechaCompra>2021-06-22</fechaCompra>
+							<fechaEntrega>2021-06-30</fechaEntrega>
+							<totalFactura>60409.95€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Zapas guardia civil</nombre>
+									<referencia>ZAP001</referencia>
+									<precio>23.95€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Air Mag "Back to the Future"</nombre>
+									<referencia>BTF001</referencia>
+									<precio>60386.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+				</trimestre2>
+				<trimestre3 num="3">
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>021</numeroPedido>
+							<fechaCompra>2021-07-05</fechaCompra>
+							<fechaEntrega>2021-07-15</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>>>>>
+							<productos>
+								<producto>
+									<nombre>Camiseta versace</nombre>
+									<referencia>CAM001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero</nombre>
+									<referencia>PAN001</referencia>
+									<precio>50.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Sudadera con capucha básica</nombre>
+									<referencia>SUD001</referencia>
+									<precio>100.00€</precio>
+									<unidades>3ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>022</numeroPedido>
+							<fechaCompra>2021-07-06</fechaCompra>
+							<fechaEntrega>2021-07-10</fechaEntrega>
+							<totalFactura>280.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta oversized</nombre>
+									<referencia>CAM002</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón levis ancho</nombre>
+									<referencia>PAN002</referencia>
+									<precio>200.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>023</numeroPedido>
+							<fechaCompra>2021-08-10</fechaCompra>
+							<fechaEntrega>2021-08-22</fechaEntrega>
+							<totalFactura>500.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riño balenciaga</nombre>
+									<referencia>RIÑ001</referencia>
+									<precio>500.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>024</numeroPedido>
+							<fechaCompra>2021-08-12</fechaCompra>
+							<fechaEntrega>2021-08-20</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cinturón gucci</nombre>
+									<referencia>CIN001</referencia>
+									<precio>470.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Fernando</nombre>
+							<apellidos>Dorado</apellidos>
+							<telefono>675364722</telefono>
+							<direccion>
+								<calle>C/ Plaza Paco, 8</calle>
+								<ciudad>Griñon</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>fernando.dorado@campusfp.es</correo>
+							<fechaInclusion>2021-02-15</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>025</numeroPedido>
+							<fechaCompra>2021-08-15</fechaCompra>
+							<fechaEntrega>2021-08-28</fechaEntrega>
+							<totalFactura>200.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Chaqueta retro forrada</nombre>
+									<referencia>CHA001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero extra-ancho</nombre>
+									<referencia>PAN003</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>026</numeroPedido>
+							<fechaCompra>2021-08-15</fechaCompra>
+							<fechaEntrega>2021-08-28</fechaEntrega>
+							<totalFactura>520.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cartera la greca versace</nombre>
+									<referencia>CAR001</referencia>
+									<precio>520.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>027</numeroPedido>
+							<fechaCompra>2021-08-26</fechaCompra>
+							<fechaEntrega>2021-09-8</fechaEntrega>
+							<totalFactura>40.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riñonera marlboro</nombre>
+									<referencia>RIÑ002</referencia>
+									<precio>40.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>028</numeroPedido>
+							<fechaCompra>2021-09-01</fechaCompra>
+							<fechaEntrega>2021-09-20</fechaEntrega>
+							<totalFactura>3228.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Bomber Givenchy</nombre>
+									<referencia>BOM001</referencia>
+									<precio>2790.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Cartera gucci tiger</nombre>
+									<referencia>CAR002</referencia>
+									<precio>438.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>029</numeroPedido>
+							<fechaCompra>2021-09-12</fechaCompra>
+							<fechaEntrega>2021-09-22</fechaEntrega>
+							<totalFactura>995.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Balenciaga Triple S</nombre>
+									<referencia>BAL001</referencia>
+									<precio>995.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>030</numeroPedido>
+							<fechaCompra>2021-09-22</fechaCompra>
+							<fechaEntrega>2021-09-30</fechaEntrega>
+							<totalFactura>60409.95€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Zapas guardia civil</nombre>
+									<referencia>ZAP001</referencia>
+									<precio>23.95€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Air Mag "Back to the Future"</nombre>
+									<referencia>BTF001</referencia>
+									<precio>60386.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+				</trimestre3>
+				<trimestre4 num="4">
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>031</numeroPedido>
+							<fechaCompra>2021-10-05</fechaCompra>
+							<fechaEntrega>2021-10-15</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta versace</nombre>
+									<referencia>CAM001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero</nombre>
+									<referencia>PAN001</referencia>
+									<precio>50.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Sudadera con capucha básica</nombre>
+									<referencia>SUD001</referencia>
+									<precio>100.00€</precio>
+									<unidades>3ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>032</numeroPedido>
+							<fechaCompra>2021-10-06</fechaCompra>
+							<fechaEntrega>2021-10-10</fechaEntrega>
+							<totalFactura>280.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta oversized</nombre>
+									<referencia>CAM002</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón levis ancho</nombre>
+									<referencia>PAN002</referencia>
+									<precio>200.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>033</numeroPedido>
+							<fechaCompra>2021-11-10</fechaCompra>
+							<fechaEntrega>2021-11-22</fechaEntrega>
+							<totalFactura>500.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riño balenciaga</nombre>
+									<referencia>RIÑ001</referencia>
+									<precio>500.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>034</numeroPedido>
+							<fechaCompra>2021-11-12</fechaCompra>
+							<fechaEntrega>2021-11-20</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cinturón gucci</nombre>
+									<referencia>CIN001</referencia>
+									<precio>470.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Fernando</nombre>
+							<apellidos>Dorado</apellidos>
+							<telefono>675364722</telefono>
+							<direccion>
+								<calle>C/ Plaza Paco, 8</calle>
+								<ciudad>Griñon</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>fernando.dorado@campusfp.es</correo>
+							<fechaInclusion>2021-02-15</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>035</numeroPedido>
+							<fechaCompra>2021-11-15</fechaCompra>
+							<fechaEntrega>2021-11-28</fechaEntrega>
+							<totalFactura>200.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Chaqueta retro forrada</nombre>
+									<referencia>CHA001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero extra-ancho</nombre>
+									<referencia>PAN003</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>036</numeroPedido>
+							<fechaCompra>2021-11-15</fechaCompra>
+							<fechaEntrega>2021-11-28</fechaEntrega>
+							<totalFactura>520.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cartera la greca versace</nombre>
+									<referencia>CAR001</referencia>
+									<precio>520.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>037</numeroPedido>
+							<fechaCompra>2021-11-26</fechaCompra>
+							<fechaEntrega>2021-12-8</fechaEntrega>
+							<totalFactura>40.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riñonera marlboro</nombre>
+									<referencia>RIÑ002</referencia>
+									<precio>40.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>038</numeroPedido>
+							<fechaCompra>2021-12-01</fechaCompra>
+							<fechaEntrega>2021-12-20</fechaEntrega>
+							<totalFactura>3228.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Bomber Givenchy</nombre>
+									<referencia>BOM001</referencia>
+									<precio>2790.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Cartera gucci tiger</nombre>
+									<referencia>CAR002</referencia>
+									<precio>438.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>039</numeroPedido>
+							<fechaCompra>2021-12-12</fechaCompra>
+							<fechaEntrega>2021-12-22</fechaEntrega>
+							<totalFactura>995.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Balenciaga Triple S</nombre>
+									<referencia>BAL001</referencia>
+									<precio>995.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>040</numeroPedido>
+							<fechaCompra>2021-12-22</fechaCompra>
+							<fechaEntrega>2021-12-30</fechaEntrega>
+							<totalFactura>60409.95€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Zapas guardia civil</nombre>
+									<referencia>ZAP001</referencia>
+									<precio>23.95€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Air Mag "Back to the Future"</nombre>
+									<referencia>BTF001</referencia>
+									<precio>60386.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+				</trimestre4>
+			</trimestre>
+		</ano1>
+		<ano2 ano="2022">
+			<trimestre>
+				<trimestre1 num="1">
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>041</numeroPedido>
+							<fechaCompra>2022-01-05</fechaCompra>
+							<fechaEntrega>2022-01-15</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta versace</nombre>
+									<referencia>CAM001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero</nombre>
+									<referencia>PAN001</referencia>
+									<precio>50.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Sudadera con capucha básica</nombre>
+									<referencia>SUD001</referencia>
+									<precio>100.00€</precio>
+									<unidades>3ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>042</numeroPedido>
+							<fechaCompra>2022-01-06</fechaCompra>
+							<fechaEntrega>2022-01-10</fechaEntrega>
+							<totalFactura>280.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta oversized</nombre>
+									<referencia>CAM002</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón levis ancho</nombre>
+									<referencia>PAN002</referencia>
+									<precio>200.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>043</numeroPedido>
+							<fechaCompra>2022-02-10</fechaCompra>
+							<fechaEntrega>2022-02-22</fechaEntrega>
+							<totalFactura>500.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riño balenciaga</nombre>
+									<referencia>RIÑ001</referencia>
+									<precio>500.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>044</numeroPedido>
+							<fechaCompra>2022-02-12</fechaCompra>
+							<fechaEntrega>2022-02-20</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cinturón gucci</nombre>
+									<referencia>CIN001</referencia>
+									<precio>470.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Fernando</nombre>
+							<apellidos>Dorado</apellidos>
+							<telefono>675364722</telefono>
+							<direccion>
+								<calle>C/ Plaza Paco, 8</calle>
+								<ciudad>Griñon</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>fernando.dorado@campusfp.es</correo>
+							<fechaInclusion>2021-02-15</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>045</numeroPedido>
+							<fechaCompra>2022-02-15</fechaCompra>
+							<fechaEntrega>2022-02-28</fechaEntrega>
+							<totalFactura>200.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Chaqueta retro forrada</nombre>
+									<referencia>CHA001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero extra-ancho</nombre>
+									<referencia>PAN003</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>046</numeroPedido>
+							<fechaCompra>2022-02-15</fechaCompra>
+							<fechaEntrega>2022-02-28</fechaEntrega>
+							<totalFactura>520.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cartera la greca versace</nombre>
+									<referencia>CAR001</referencia>
+									<precio>520.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>047</numeroPedido>
+							<fechaCompra>2022-02-26</fechaCompra>
+							<fechaEntrega>2022-03-8</fechaEntrega>
+							<totalFactura>40.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riñonera marlboro</nombre>
+									<referencia>RIÑ002</referencia>
+									<precio>40.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>048</numeroPedido>
+							<fechaCompra>2022-03-01</fechaCompra>
+							<fechaEntrega>2022-03-20</fechaEntrega>
+							<totalFactura>3228.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Bomber Givenchy</nombre>
+									<referencia>BOM001</referencia>
+									<precio>2790.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Cartera gucci tiger</nombre>
+									<referencia>CAR002</referencia>
+									<precio>438.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>049</numeroPedido>
+							<fechaCompra>2022-03-12</fechaCompra>
+							<fechaEntrega>2022-03-22</fechaEntrega>
+							<totalFactura>995.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Balenciaga Triple S</nombre>
+									<referencia>BAL001</referencia>
+									<precio>995.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>050</numeroPedido>
+							<fechaCompra>2022-03-22</fechaCompra>
+							<fechaEntrega>2022-03-30</fechaEntrega>
+							<totalFactura>60409.95€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Zapas guardia civil</nombre>
+									<referencia>ZAP001</referencia>
+									<precio>23.95€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Air Mag "Back to the Future"</nombre>
+									<referencia>BTF001</referencia>
+									<precio>60386.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+				</trimestre1>
+				<trimestre2 num="2">
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>051</numeroPedido>
+							<fechaCompra>2022-04-05</fechaCompra>
+							<fechaEntrega>2022-04-15</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta versace</nombre>
+									<referencia>CAM001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero</nombre>
+									<referencia>PAN001</referencia>
+									<precio>50.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Sudadera con capucha básica</nombre>
+									<referencia>SUD001</referencia>
+									<precio>100.00€</precio>
+									<unidades>3ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>052</numeroPedido>
+							<fechaCompra>2022-04-06</fechaCompra>
+							<fechaEntrega>2022-04-10</fechaEntrega>
+							<totalFactura>280.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta oversized</nombre>
+									<referencia>CAM002</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón levis ancho</nombre>
+									<referencia>PAN002</referencia>
+									<precio>200.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>053</numeroPedido>
+							<fechaCompra>2022-05-10</fechaCompra>
+							<fechaEntrega>2022-05-22</fechaEntrega>
+							<totalFactura>500.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riño balenciaga</nombre>
+									<referencia>RIÑ001</referencia>
+									<precio>500.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>054</numeroPedido>
+							<fechaCompra>2022-05-12</fechaCompra>
+							<fechaEntrega>2022-05-20</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cinturón gucci</nombre>
+									<referencia>CIN001</referencia>
+									<precio>470.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Fernando</nombre>
+							<apellidos>Dorado</apellidos>
+							<telefono>675364722</telefono>
+							<direccion>
+								<calle>C/ Plaza Paco, 8</calle>
+								<ciudad>Griñon</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>fernando.dorado@campusfp.es</correo>
+							<fechaInclusion>2021-02-15</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>055</numeroPedido>
+							<fechaCompra>2022-05-15</fechaCompra>
+							<fechaEntrega>2022-05-28</fechaEntrega>
+							<totalFactura>200.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Chaqueta retro forrada</nombre>
+									<referencia>CHA001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero extra-ancho</nombre>
+									<referencia>PAN003</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>056</numeroPedido>
+							<fechaCompra>2022-05-15</fechaCompra>
+							<fechaEntrega>2022-05-28</fechaEntrega>
+							<totalFactura>520.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cartera la greca versace</nombre>
+									<referencia>CAR001</referencia>
+									<precio>520.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>057</numeroPedido>
+							<fechaCompra>2022-05-26</fechaCompra>
+							<fechaEntrega>2022-06-8</fechaEntrega>
+							<totalFactura>40.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riñonera marlboro</nombre>
+									<referencia>RIÑ002</referencia>
+									<precio>40.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>058</numeroPedido>
+							<fechaCompra>2022-06-01</fechaCompra>
+							<fechaEntrega>2022-06-20</fechaEntrega>
+							<totalFactura>3228.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Bomber Givenchy</nombre>
+									<referencia>BOM001</referencia>
+									<precio>2790.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Cartera gucci tiger</nombre>
+									<referencia>CAR002</referencia>
+									<precio>438.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>059</numeroPedido>
+							<fechaCompra>2022-06-12</fechaCompra>
+							<fechaEntrega>2022-06-22</fechaEntrega>
+							<totalFactura>995.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Balenciaga Triple S</nombre>
+									<referencia>BAL001</referencia>
+									<precio>995.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>060</numeroPedido>
+							<fechaCompra>2022-06-22</fechaCompra>
+							<fechaEntrega>2022-06-30</fechaEntrega>
+							<totalFactura>60409.95€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Zapas guardia civil</nombre>
+									<referencia>ZAP001</referencia>
+									<precio>23.95€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Air Mag "Back to the Future"</nombre>
+									<referencia>BTF001</referencia>
+									<precio>60386.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+				</trimestre2>
+				<trimestre3 num="3">
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>061</numeroPedido>
+							<fechaCompra>2022-07-05</fechaCompra>
+							<fechaEntrega>2022-07-15</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta versace</nombre>
+									<referencia>CAM001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero</nombre>
+									<referencia>PAN001</referencia>
+									<precio>50.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Sudadera con capucha básica</nombre>
+									<referencia>SUD001</referencia>
+									<precio>100.00€</precio>
+									<unidades>3ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>062</numeroPedido>
+							<fechaCompra>2022-07-06</fechaCompra>
+							<fechaEntrega>2022-07-10</fechaEntrega>
+							<totalFactura>280.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta oversized</nombre>
+									<referencia>CAM002</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón levis ancho</nombre>
+									<referencia>PAN002</referencia>
+									<precio>200.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>063</numeroPedido>
+							<fechaCompra>2022-08-10</fechaCompra>
+							<fechaEntrega>2022-08-22</fechaEntrega>
+							<totalFactura>500.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riño balenciaga</nombre>
+									<referencia>RIÑ001</referencia>
+									<precio>500.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>064</numeroPedido>
+							<fechaCompra>2022-08-12</fechaCompra>
+							<fechaEntrega>2022-08-20</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cinturón gucci</nombre>
+									<referencia>CIN001</referencia>
+									<precio>470.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Fernando</nombre>
+							<apellidos>Dorado</apellidos>
+							<telefono>675364722</telefono>
+							<direccion>
+								<calle>C/ Plaza Paco, 8</calle>
+								<ciudad>Griñon</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>fernando.dorado@campusfp.es</correo>
+							<fechaInclusion>2021-02-15</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>065</numeroPedido>
+							<fechaCompra>2022-08-15</fechaCompra>
+							<fechaEntrega>2022-08-28</fechaEntrega>
+							<totalFactura>200.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Chaqueta retro forrada</nombre>
+									<referencia>CHA001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero extra-ancho</nombre>
+									<referencia>PAN003</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>066</numeroPedido>
+							<fechaCompra>2022-08-15</fechaCompra>
+							<fechaEntrega>2022-08-28</fechaEntrega>
+							<totalFactura>520.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cartera la greca versace</nombre>
+									<referencia>CAR001</referencia>
+									<precio>520.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>067</numeroPedido>
+							<fechaCompra>2022-08-26</fechaCompra>
+							<fechaEntrega>2022-09-8</fechaEntrega>
+							<totalFactura>40.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riñonera marlboro</nombre>
+									<referencia>RIÑ002</referencia>
+									<precio>40.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>068</numeroPedido>
+							<fechaCompra>2022-09-01</fechaCompra>
+							<fechaEntrega>2022-09-20</fechaEntrega>
+							<totalFactura>3228.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Bomber Givenchy</nombre>
+									<referencia>BOM001</referencia>
+									<precio>2790.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Cartera gucci tiger</nombre>
+									<referencia>CAR002</referencia>
+									<precio>438.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>069</numeroPedido>
+							<fechaCompra>2022-09-12</fechaCompra>
+							<fechaEntrega>2022-09-22</fechaEntrega>
+							<totalFactura>995.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Balenciaga Triple S</nombre>
+									<referencia>BAL001</referencia>
+									<precio>995.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>070</numeroPedido>
+							<fechaCompra>2022-09-22</fechaCompra>
+							<fechaEntrega>2022-09-30</fechaEntrega>
+							<totalFactura>60409.95€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Zapas guardia civil</nombre>
+									<referencia>ZAP001</referencia>
+									<precio>23.95€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Air Mag "Back to the Future"</nombre>
+									<referencia>BTF001</referencia>
+									<precio>60386.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+				</trimestre3>
+				<trimestre4 num="4">
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>071</numeroPedido>
+							<fechaCompra>2022-10-05</fechaCompra>
+							<fechaEntrega>2022-10-15</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta versace</nombre>
+									<referencia>CAM001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero</nombre>
+									<referencia>PAN001</referencia>
+									<precio>50.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Sudadera con capucha básica</nombre>
+									<referencia>SUD001</referencia>
+									<precio>100.00€</precio>
+									<unidades>3ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>072</numeroPedido>
+							<fechaCompra>2022-10-06</fechaCompra>
+							<fechaEntrega>2022-10-10</fechaEntrega>
+							<totalFactura>280.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Camiseta oversized</nombre>
+									<referencia>CAM002</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón levis ancho</nombre>
+									<referencia>PAN002</referencia>
+									<precio>200.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>073</numeroPedido>
+							<fechaCompra>2022-11-10</fechaCompra>
+							<fechaEntrega>2022-11-22</fechaEntrega>
+							<totalFactura>500.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riño balenciaga</nombre>
+									<referencia>RIÑ001</referencia>
+									<precio>500.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>074</numeroPedido>
+							<fechaCompra>2022-11-12</fechaCompra>
+							<fechaEntrega>2022-11-20</fechaEntrega>
+							<totalFactura>470.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cinturón gucci</nombre>
+									<referencia>CIN001</referencia>
+									<precio>470.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Fernando</nombre>
+							<apellidos>Dorado</apellidos>
+							<telefono>675364722</telefono>
+							<direccion>
+								<calle>C/ Plaza Paco, 8</calle>
+								<ciudad>Griñon</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>fernando.dorado@campusfp.es</correo>
+							<fechaInclusion>2021-02-15</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>075</numeroPedido>
+							<fechaCompra>2022-11-15</fechaCompra>
+							<fechaEntrega>2022-11-28</fechaEntrega>
+							<totalFactura>200.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Chaqueta retro forrada</nombre>
+									<referencia>CHA001</referencia>
+									<precio>120.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Pantalón vaquero extra-ancho</nombre>
+									<referencia>PAN003</referencia>
+									<precio>80.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>076</numeroPedido>
+							<fechaCompra>2022-11-15</fechaCompra>
+							<fechaEntrega>2022-11-28</fechaEntrega>
+							<totalFactura>520.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Cartera la greca versace</nombre>
+									<referencia>CAR001</referencia>
+									<precio>520.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Mario</nombre>
+							<apellidos>Lopez LLamas</apellidos>
+							<telefono>698627589</telefono>
+							<direccion>
+								<calle>C/ Laguna, 31</calle>
+								<ciudad>Humanes</ciudad>
+								<codigopostal>28971</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>mario.llamas@campusfp.es</correo>
+							<fechaInclusion>2021-01-02</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>077</numeroPedido>
+							<fechaCompra>2022-11-26</fechaCompra>
+							<fechaEntrega>2022-12-8</fechaEntrega>
+							<totalFactura>40.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Riñonera marlboro</nombre>
+									<referencia>RIÑ002</referencia>
+									<precio>40.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Pablo</nombre>
+							<apellidos>Vara Naranjo</apellidos>
+							<telefono>679568452</telefono>
+							<direccion>
+								<calle>C/ Mayor, 1</calle>
+								<ciudad>Madrid</ciudad>
+								<codigopostal>28001</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>pablo.naranjo@campusfp.es</correo>
+							<fechaInclusion>2021-01-01</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>078</numeroPedido>
+							<fechaCompra>2022-12-01</fechaCompra>
+							<fechaEntrega>2022-12-20</fechaEntrega>
+							<totalFactura>3228.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Bomber Givenchy</nombre>
+									<referencia>BOM001</referencia>
+									<precio>2790.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Cartera gucci tiger</nombre>
+									<referencia>CAR002</referencia>
+									<precio>438.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Sabin</nombre>
+							<apellidos>Maniuc</apellidos>
+							<telefono>696026877</telefono>
+							<direccion>
+								<calle>C/ Quevedo, 22</calle>
+								<ciudad>Fuenlabrada</ciudad>
+								<codigopostal>28977</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>sabin.maniuc@campusfp.es</correo>
+							<fechaInclusion>2021-02-12</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>079</numeroPedido>
+							<fechaCompra>2022-12-12</fechaCompra>
+							<fechaEntrega>2022-12-22</fechaEntrega>
+							<totalFactura>995.00€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Balenciaga Triple S</nombre>
+									<referencia>BAL001</referencia>
+									<precio>995.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+					<pedido>
+						<cliente>
+							<nombre>Vladislav</nombre>
+							<apellidos>Slavev Gueorguiev</apellidos>
+							<telefono>686136522</telefono>
+							<direccion>
+								<calle>C/ La Martina, 42</calle>
+								<ciudad>Cubas</ciudad>
+								<codigopostal>28978</codigopostal>
+								<provincia>Madrid</provincia>
+							</direccion>
+							<correo>vladislav.gueorguiev@campusfp.es</correo>
+							<fechaInclusion>2021-02-10</fechaInclusion>
+						</cliente>
+						<detalle>
+							<numeroPedido>080</numeroPedido>
+							<fechaCompra>2022-12-22</fechaCompra>
+							<fechaEntrega>2022-12-30</fechaEntrega>
+							<totalFactura>60409.95€</totalFactura>
+							<productos>
+								<producto>
+									<nombre>Zapas guardia civil</nombre>
+									<referencia>ZAP001</referencia>
+									<precio>23.95€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+								<producto>
+									<nombre>Air Mag "Back to the Future"</nombre>
+									<referencia>BTF001</referencia>
+									<precio>60386.00€</precio>
+									<unidades>1ud(s).</unidades>
+								</producto>
+							</productos>
+						</detalle>
+					</pedido>
+				</trimestre4>
+			</trimestre>
+		</ano2>
+	</ano>
+</pedidos>

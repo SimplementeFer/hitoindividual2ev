@@ -1,0 +1,33 @@
+/* Estilo de la tabla */
+table {
+  border-collapse: collapse;
+  margin: 20px;
+  font-size: 16px;
+  border-radius: 1em;
+}
+
+/* Estilo de las celdas de encabezado */
+th {
+  background-color: #0b6913;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Estilo de las celdas de datos */
+td {
+  background-color: #F2F2F2;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Estilo de las filas pares */
+tr:nth-child(even) {
+  background-color: #D3D3D3;
+}
+
+/* Estilo de las filas impares */
+tr:nth-child(odd) {
+  background-color: #E8E8E8;
+}
